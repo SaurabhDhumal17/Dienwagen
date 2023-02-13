@@ -12,6 +12,7 @@ Values
 (10002, 'sedan', 1004, 'psarkar', CURRENT_TIMESTAMP),
 (10003, 'coupe', 1003, 'psarkar', CURRENT_TIMESTAMP),
 (10004, 'cabriolet', 1003,'psarkar', CURRENT_TIMESTAMP);
+(10004, 'cabriolet', 1004,'psarkar', CURRENT_TIMESTAMP);
 
 Insert into vehicle_engine
 Values

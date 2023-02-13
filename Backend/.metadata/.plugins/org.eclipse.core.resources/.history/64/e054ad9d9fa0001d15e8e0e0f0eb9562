@@ -1,9 +1,0 @@
-package com.deinwagen.backend.entities;
-
-import javax.persistence.Entity;
-
-@Entity
-@Table
-public class CustomerDetails{
-
-}
